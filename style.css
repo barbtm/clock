@@ -1,1 +1,47 @@
+#hours{
+    font-family: Arial;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+    padding: 20px;
+    background-color: #929191;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
 
+#minutes{
+    font-family: Arial;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+    padding: 20px;
+    background-color: #929191;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+#seconds{
+    font-family: Arial;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+    padding: 20px;
+    background-color: #929191;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+#dois_pontos{
+    font-family: Arial;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    color: #6a6868;
+    padding: 20px;
+    background-color: #a8a2a2;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
